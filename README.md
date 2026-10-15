@@ -49,6 +49,10 @@ The Student Data Organizer is a Python-based project used to manage student info
 python student_data_organizer.py
 ```
 
+<a href="https://drive.google.com/file/d/1DIeuYywI9rBMbH3pNLbUiQEvJ2SO3rUP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
+</a>
+
 ## Data Storage
 The student records are stored temporarily in a list while the program is running. The records are not saved permanently after the program closes.
 
